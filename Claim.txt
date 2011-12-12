@@ -9,4 +9,5 @@ Insurance Info:
 Insurance: State Farm 
 Holder: Margret Natonio 
 Policy: 024-51-88-32
-Claims number: 800 782 8332
+Claims Contact number: 800 949 3493
+Claim: 32-0M-63-292
